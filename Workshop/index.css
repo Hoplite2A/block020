@@ -1,3 +1,10 @@
+html {
+    background:black;
+    color: white;
+}
+h1 {
+    text-decoration: underline;
+}
 .heading2{
     font-weight: 600;
 }
@@ -13,4 +20,11 @@
 .redText{
     color: red;
 }
-
+.ul-headers{
+    font-size:x-large;
+    padding-left: 15px;;
+}
+.il-items{
+    font-size: medium;
+    margin-left: 80px;;
+}
